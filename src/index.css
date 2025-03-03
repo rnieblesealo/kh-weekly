@@ -4,3 +4,12 @@
 @theme {
   --font-redhat: "Red Hat Display", sans-serif;
 }
+
+body {
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
